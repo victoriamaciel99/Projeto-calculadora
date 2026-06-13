@@ -1,5 +1,4 @@
 # Projeto-calculadora
-Curso EBAC
 Curso EBAC calculadora.py
 
 # Como executar o projeto
